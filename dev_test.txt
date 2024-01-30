@@ -1,0 +1,6 @@
+for el in "lvhjferbvosgdyuich;bvdfslhjvfyaeuipgfyupagyufoagyufya":
+	if el == "2":
+		print(el)
+декілька
+рядків
+тексту
