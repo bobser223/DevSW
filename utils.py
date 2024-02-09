@@ -31,4 +31,3 @@ def IsPower2(n):
         return False
     else:
         return True
-
