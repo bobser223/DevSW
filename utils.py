@@ -10,3 +10,14 @@ def IsPrime(a):
 		if a % i == 0:
 			return False
 	return True
+    
+    
+def IsPower5(n):
+    if n%5!=0:
+        return False
+    while n%5==0:
+        n=n/5
+    if n%5!=0 and n!=1:
+        return False
+    else:
+        return True
